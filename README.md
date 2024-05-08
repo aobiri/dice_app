@@ -1,2 +1,2 @@
 # dice_app
-Flutter - first flutter project
+Flutter - first basic flutter project
